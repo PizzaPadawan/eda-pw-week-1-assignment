@@ -21,7 +21,8 @@ footer {
     padding-top: 25px;
 }
 /* Align the h1 containing your name in the center of the header*/
-h1 {
+h1,
+h3 {
     text-align: center;
 
 }
@@ -43,7 +44,8 @@ img {
     
 }
 
-.list {
+.list,
+.playlist {
     max-width: 1000px;
     margin-right: auto;
     margin-left: auto;
