@@ -7,7 +7,7 @@ body {
 /* Make the header and footer a different color from the background */
 header,
 footer {
-    background-color: teal;
+    background: linear-gradient(180deg, rgb(0,128,128), rgb(128,0,128), rgb(216,112,147));
     width: 80%;
     max-width: 1000px;
     margin-right: auto;
