@@ -53,6 +53,10 @@ img {
     border-radius: 5px;
 }
 
+iframe {
+   margin-left: 10%;
+}
+
 li {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin-left: 13%;
