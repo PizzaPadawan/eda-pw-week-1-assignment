@@ -2,13 +2,17 @@
 body {
     background-color:rebeccapurple;
     color:antiquewhite; 
+    font-family:'Courier New', Courier, monospace
 }
 /* Make the header and footer a different color from the background */
 header {
     background-color: teal;
 }
 /* Align the h1 containing your name in the center of the header*/
+h1 {
+    text-align: center;
 
+}
 /* Make your p tag a different color and italic */
 
 /* Put a border around your image */
