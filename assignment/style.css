@@ -7,7 +7,7 @@ body {
 /* Make the header and footer a different color from the background */
 header,
 footer {
-    background: linear-gradient(180deg, rgb(0,128,128), rgb(128,0,128), rgb(216,112,147));
+    background: linear-gradient(rgb(0,128,128), rgb(128,0,128), rgb(216,112,147));
     width: 80%;
     max-width: 1000px;
     margin-right: auto;
@@ -44,7 +44,6 @@ img {
 }
 
 .list {
-    width: 80%;
     max-width: 1000px;
     margin-right: auto;
     margin-left: auto;
@@ -53,6 +52,7 @@ img {
 }
 
 li {
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 13%;
 }
 /* Change the font-family of your list */
