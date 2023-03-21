@@ -2,7 +2,7 @@
 body {
     background-color:rebeccapurple;
     color:antiquewhite; 
-    font-family:'Courier New', Courier, monospace
+    font-family:'Courier New', Courier, monospace;
 }
 /* Make the header and footer a different color from the background */
 header,
@@ -43,11 +43,16 @@ img {
     
 }
 
-li {
+.list {
     width: 80%;
     max-width: 1000px;
     margin-right: auto;
     margin-left: auto;
+    border: 3px solid palevioletred;
+    border-radius: 5px;
+}
+
+li {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 /* Change the font-family of your list */
