@@ -13,7 +13,7 @@ footer {
     margin-right: auto;
     margin-left: auto;
     border: 3px solid palevioletred;
-    border-radius: 5px;
+    border-radius: 20px;
     padding-bottom: 25px;
 }
 
@@ -50,7 +50,7 @@ img {
     margin-right: auto;
     margin-left: auto;
     border: 3px solid palevioletred;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 iframe {
