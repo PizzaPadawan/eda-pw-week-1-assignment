@@ -17,6 +17,12 @@ footer {
     padding-bottom: 25px;
 }
 
+header,
+.list,
+.playlist {
+    margin-bottom: 10px;
+}
+
 footer {
     padding-top: 25px;
 }
