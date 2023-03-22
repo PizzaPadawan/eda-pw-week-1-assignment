@@ -57,6 +57,7 @@ img {
     margin-left: auto;
     border: 3px solid palevioletred;
     border-radius: 10px;
+    background-color: teal;
 }
 
 iframe {
